@@ -113,7 +113,7 @@
 * ["Design in Practice" by Rich Hickey](https://www.youtube.com/watch?v=fTtnx1AAJ-c)
 
 ## API, REST, GraphQl
-* ⭐ **[Сергей Константинов. API](https://twirl.github.io/The-API-Book/docs/API.ru.html)**
+* ⭐ **[Сергей Константинов. API](https://twirl.github.io/The-API-Book/index.ru.html)**
 * ⭐ **[How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)**
 * [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui)
 * [HATEOAS is for Humans](https://intercoolerjs.org/2016/05/08/hatoeas-is-for-humans.html)
