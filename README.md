@@ -27,6 +27,7 @@
 
 ## CSS
 * ⭐ **[In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)**
+* [Tailwind and the beauty of ugly code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
 * [CSS Line Breaking](https://florian.rivoal.net/talks/line-breaking/#cover)
 * [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 * [CSS Classes considered harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
