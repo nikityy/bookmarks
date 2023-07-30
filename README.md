@@ -94,6 +94,7 @@
 * [A newcomer's run-in with lazy I/O](https://www.ianthehenry.com/posts/lazy-io/)
 
 ## Юникод
+* [Unicode Is Hard](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [It’s not wrong that "🤦🏼‍♂️".length == 7](https://hsivonen.fi/string-length/)
 
 ## Git
