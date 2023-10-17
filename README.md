@@ -103,6 +103,7 @@
 ## Проектирование
 * ⭐ **["Simple Made Easy" by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)**
 * [App from Scratch](https://github.com/darkleaf/app-from-scratch)
+* [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [Big Ball of Mud](http://laputan.org/mud/)
 * [Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/)
 * [DDD, Hexagonal, Onion, Clean, CQRS, ... How I put it all together – @hgraca](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
