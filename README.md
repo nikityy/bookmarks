@@ -134,6 +134,7 @@
 * [Извлекаем суть новости. Опыт Яндекса](https://habr.com/ru/company/yandex/blog/586634/)
 
 ## Только для сумасшедших
+* [A Node + TypeScript + ts-node + ESM experience that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
 * [Awesome Command Line Tools PyCon 2017](https://www.youtube.com/watch?v=hJhZhLg3obk)
 * [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 * [Building software to last forever](https://herman.bearblog.dev/building-software-to-last-forever)
