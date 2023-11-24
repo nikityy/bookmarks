@@ -121,9 +121,10 @@
 * ⭐ **[How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)**
 * [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui)
 * [HATEOAS is for Humans](https://intercoolerjs.org/2016/05/08/hatoeas-is-for-humans.html)
-* [Мифология REST](https://habr.com/ru/post/560590/)
+* [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 * [GraphQL is a Trap?](https://xuorig.medium.com/graphql-is-a-trap-e83ca380aa8f)
 * [Give me /events, not webhooks](https://blog.sequin.io/events-not-webhooks)
+* [Мифология REST](https://habr.com/ru/post/560590/)
 
 ## Микросервисы
 * [To Microservices and Back Again](https://www.infoq.com/news/2020/04/microservices-back-again/)
