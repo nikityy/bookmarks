@@ -23,6 +23,7 @@
 * [Что можно положить в тег <head>](https://habr.com/ru/company/htmlacademy/blog/563894/)
 * [\<img\>. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/559442/)
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
+* [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [Как правильно адаптировать сайты для людей с проблемами зрения и слуха](https://guide.so-edinenie.org/rules)
 
 ## CSS
