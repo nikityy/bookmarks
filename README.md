@@ -148,6 +148,7 @@
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [Manifesto for Minimalist Software Engineers | Minifesto.org](http://minifesto.org/)
 * [Never include user input-text in welcome emails](https://mzrn.sh/2023/03/03/never-include-user-input-text-in-welcome-emails/)
+* [No more magic, please!](https://nickgeorge.net/nomagic/)
 * [Single Page Applications using Rust](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 * [The Grug Brained Developer](https://reidjs.github.io/grug-dev-translation/)
 * [The Programmer's Paradox: Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
