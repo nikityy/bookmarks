@@ -10,6 +10,7 @@
 * ⭐ **[The Biggest Mistake I See Engineers Make](https://archive.is/2022.01.25-181300/https://thezbook.com/the-biggest-mistake-i-see-engineers-make/)**
 * ⭐ **[Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)**
 * ⭐ **[The Pragmatic Pragmatic Programmer](https://rchaves.app/pragmatic-pragmatic-programmer/)**
+* ⭐ **[The Three Virtues of a Great Programmer](https://thethreevirtues.com/)**
 * ⭐ **[It's probably time to stop recommending Clean Code](https://qntm.org/clean)**
 * ⭐ **[Зачем нужна Кложа](https://grishaev.me/why-clj/)**
 * ⭐ **[How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)**
