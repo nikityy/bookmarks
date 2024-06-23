@@ -161,4 +161,5 @@
 * [Как мы внедрили свою модель хранения данных — highly Normalized hybrid Model](https://habr.com/ru/company/yandex/blog/557140/)
 * [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 * [Как работает TLS, в технических подробностях](https://tls.dxdt.ru/tls.html)
+* [Очень простой алгоритм подбора цвета, который работает](https://scribe.rawbit.ninja/@iammishaanikin/98b8f0dcfdc5)
 * [Практическое руководство по методу максимального правдоподобия](https://habr.com/ru/company/otus/blog/585610/)
